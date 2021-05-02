@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 return [
     // Relation ID of the OpenstreetMap City
-    'relationId' => 444400,
+    'relationId' => 295092,
 
     // Languages in which you want to extract Wiki informations
     'languages' => ['en'],

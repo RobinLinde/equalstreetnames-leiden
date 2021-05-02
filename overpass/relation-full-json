@@ -1,9 +1,6 @@
 [out:json][timeout:300];
-( area["admin_level"="10"]["ref:woonplaatscode"="2088"]["wikidata"="Q33456378"]; )->.a;
+( area["admin_level"="8"]["ref:woonplaatscode"="2088"]["wikidata"="Q43631"]; )->.a;
 (
-    relation["type"="associatedStreet"](area.a);
-    relation["type"="street"](area.a);
-    relation["type"="multipolygon"]["place"]["name"](area.a);
     relation["type"="multipolygon"]["highway"]["name"](area.a);
 );
 out body;
