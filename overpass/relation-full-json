@@ -1,5 +1,5 @@
 [out:json][timeout:300];
-( area["admin_level"=""]["wikidata"="Q33456378"]; )->.a;
+( area["admin_level"="10"]["wikidata"="Q33456378"]; )->.a;
 (
     relation["type"="associatedStreet"](area.a);
     relation["type"="street"](area.a);
