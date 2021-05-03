@@ -72,7 +72,7 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git pull
           git add cities/netherlands/leiden
-          git commit -m "🗃 Update Brussels sub-module"
+          git commit -m "🗃 Update Leiden sub-module"
       - name: Push to main repository
         uses: ad-m/github-push-action@master
         if: ${{ github.event_name != 'pull_request' }}
