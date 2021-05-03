@@ -1,5 +1,5 @@
-# EqualStreetNames-Assen
-
+# EqualStreetNames-Leiden
+[Nederlandstalige uitleg hier ](READMEnl.md)
 This repo contains the submodule containing the data for Leiden in the EqualStreetNames project. For more information about the project, visit the [main repo](https://github.com/EqualStreetNames/equalstreetnames).
 
 ## Data updates
@@ -28,4 +28,4 @@ has loads of etymology, but it is not yet added to OSM.
 If you want to add to this project, you can map it on OpenStreetMap.
 You can use the tag name:etymology:wikidata for adding the information to a street using a Wikidata entity.
 
-I've added a few etymology notes to Stevenshof ![](added_streets.png) like here. 
+I've added a few etymology notes to Stevenshof ![](added_streets.png) like here.
