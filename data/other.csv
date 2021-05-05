@@ -1,7 +1,23 @@
 name,source,gender,wikidata,type
 "Anna Bijnskade",wikidata,,Q18937412,way
+Corantijnstraat,wikidata,,Q508582,way
+Curaçaostraat,wikidata,,Q25279,way
+Kooilaan,wikidata,,Q20675,way
 Leuvenstraat,wikidata,,Q118958,way
+Lombokstraat,wikidata,,Q7564,way
+Marowijnepad,wikidata,,Q1369002,way
+Molenstraat,wikidata,,Q38720,way
 "Nellie van Kolstraat",wikidata,,Q19353592,way
+Nickeriepad,wikidata,,Q182396,way
+Paramaribohof,wikidata,,Q3001,way
+Paramaribostraat,wikidata,,Q3001,way
+Sabastraat,wikidata,,Q25528,way
+"Sint Eustatiusstraat",wikidata,,Q26180,way
+"Sint Maartenstraat",wikidata,,Q26273,way
+Soestdijkkade,wikidata,,Q234048,way
+Sumatrastraat,wikidata,,Q3492,way
+Surinamestraat,wikidata,,Q19901436,way
+Timorstraat,wikidata,,Q83067,way
 "'t Joppepad",,,,way
 "1e Binnenvestgracht",,,,way
 "2e Binnenvestgracht",,,,way
@@ -14,7 +30,6 @@ Aalscholveroord,,,,way
 "Aaltje Noordewierlaan",,,,way
 Aardbeipad,,,,way
 Aarstraat,,,,way
-"Abraham Crijnssenstraat",,,,way
 "Abraham Kuyperplein",,,,way
 Abrikozenweg,,,,way
 Acaciastraat,,,,way
@@ -33,18 +48,15 @@ Akenwerf,,,,way
 Akkerhof,,,,way
 Akkerhoornbloem,,,,way
 "Albert Verweijstraat",,,,way
-"Albertine Agnesstraat",,,,way
 Albinusdreef,,,,way
 "Aletta Jacobslaan",,,,way
 "Alexander Dubčekplaats",,,,way
-"Alexander Gogelstraat",,,,way
 Alexanderstraat,,,,way
 "Alexandrine Tinneplein",,,,way
 Alfastraat,,,,way
 "Alida Buitendijkpad",,,,way
 Aloëlaan,,,,way
 Alpenroos,,,,way
-Amaliastraat,,,,way
 Amalrikplaats,,,,way
 Ambonstraat,,,,way
 Ambrosiadal,,,,way
@@ -67,7 +79,6 @@ Ankerpark,,,,way
 "Anna Swellengrebelpad",,,,way
 "Anna Teding van Berkhoutstraat",,,,way
 "Anna van Bossepad",,,,way
-"Anna van Burenhof",,,,way
 "Anna van Goghstraat",,,,way
 "Annie Coertstraat",,,,way
 "Annie M.G. Schmidthof",,,,way
@@ -120,7 +131,6 @@ Barnsteenstraat,,,,way
 Bartókstraat,,,,way
 "Baruch Spinozapad",,,,way
 Bassonstraat,,,,way
-Beatrixstraat,,,,way
 Beekforel,,,,way
 Beelpad,,,,way
 Beestenmarkt,,,,relation
@@ -138,7 +148,6 @@ Berlagestraat,,,,way
 Berliozpad,,,,way
 "Bernard Zweersstraat",,,,way
 Bernhardkade,,,,way
-Bernhardstraat,,,,way
 Berylstraat,,,,way
 Beschuitsteeg,,,,way
 Besjeslaan,,,,way
@@ -258,7 +267,6 @@ Celebesstraat,,,,way
 Ceramstraat,,,,way
 "César Franckstraat",,,,way
 "Charlotte Köhlerpad",,,,way
-"Charlotte de Bourbonhof",,,,way
 Choorlammersteeg,,,,way
 Chopinstraat,,,,way
 "Chris de Jongstraat",,,,way
@@ -294,7 +302,6 @@ Consciëntieplein,,,,way
 "Constantijn Huygenslaan",,,,way
 Consulstraat,,,,way
 Coornhertstraat,,,,way
-Corantijnstraat,,,,way
 Corbulotunnel,,,,way
 Corbuloweg,,,,way
 Corellistraat,,,,way
@@ -312,7 +319,6 @@ Cronesteinpad,,,,way
 Cronesteyn,,,,way
 Cronjéstraat,,,,way
 Cruquiuslaan,,,,way
-Curaçaostraat,,,,way
 Cyperzegge,,,,way
 "Da Costastraat",,,,way
 Daendelspad,,,,way
@@ -656,7 +662,6 @@ Iepentakvlinder,,,,way
 "Ietje Kooistrapad",,,,way
 "Ingenieur Driessenstraat",,,,way
 "Ingenieur G. Tjalmaweg",,,,way
-Irenestraat,,,,way
 Irispad,,,,way
 Isoldehof,,,,way
 Ixiadal,,,,way
@@ -681,7 +686,6 @@ Jadestraat,,,,way
 "Jan Palachstraat",,,,way
 "Jan Paulushof",,,,way
 "Jan Pesijnshof",,,,way
-"Jan Pieterszoon Coenhof",,,,way
 "Jan Vossenbrug",,,,way
 "Jan Wolkersstraat",,,,way
 "Jan van Goyenkade",,,,way
@@ -694,7 +698,6 @@ Jennerstraat,,,,way
 Jeruzalemshof,,,,way
 "Jo de Clerstraat",,,,way
 "Johan Wagenaarlaan",,,,way
-"Johan Willem Frisostraat",,,,way
 "Johan de Kosterweg",,,,way
 "Johan de Wittstraat",,,,way
 "Johanna Westerdijkstraat",,,,way
@@ -710,8 +713,6 @@ Jotapad,,,,way
 Joubertstraat,,,,way
 Joulestraat,,,,way
 "Juffrouw Maashofje",,,,way
-"Juliana van Stolberghof",,,,way
-Julianakade,,,,way
 Julianastraat,,,,way
 "Julius Caesarbrug",,,,way
 "Julius Caesarlaan",,,,way
@@ -790,7 +791,6 @@ Koninginnelaan,,,,way
 Koningstraat,,,,way
 Kooihof,,,,way
 Kooikerbrug,,,,way
-Kooilaan,,,,way
 Kooipark,,,,way
 Kooiplein,,,,way
 Kooizicht,,,,way
@@ -903,7 +903,6 @@ Lokeendbrug,,,,way
 Lokhorststraat,,,,way
 Lombardpoort,,,,way
 Lombardsteeg,,,,way
-Lombokstraat,,,,way
 Looiersplein,,,,way
 Looktuin,,,,way
 Lopsenstraat,,,,way
@@ -956,7 +955,6 @@ Maresingel,,,,way
 "Margaretha Simonskade",,,,way
 "Margo Antinkpad",,,,way
 Margrietpad,,,,way
-Margrietstraat,,,,way
 "Maria Dermoûtpad",,,,way
 "Maria Gijzensteeg",,,,way
 "Maria Voskade",,,,way
@@ -967,10 +965,8 @@ Margrietstraat,,,,way
 "Marie de Lannoystraat",,,,way
 "Marie van Eijsdenpad",,,,way
 Mariënpoelstraat,,,,way
-Marijkestraat,,,,way
 Marislaan,,,,way
 Marktsteeg,,,,way
-Marowijnepad,,,,way
 "Martinus Nijhoffbrug",,,,way
 "Martinus Nijhoffpad",,,,way
 "Martinus Nijhoffplaats",,,,way
@@ -1034,7 +1030,6 @@ Moerbeistraat,,,,way
 Moessorgskistraat,,,,way
 Molenaarspad,,,,way
 Molensteeg,,,,way
-Molenstraat,,,,way
 Molentocht,,,,way
 Molenwerf,,,,way
 Molenwerfsteeg,,,,way
@@ -1079,7 +1074,6 @@ Nautilusbank,,,,way
 Neptunuskade,,,,way
 Nesciokade,,,,way
 Newtonweg,,,,way
-Nickeriepad,,,,way
 "Nico van der Horstpark",,,,way
 "Nicolaas Beetsstraat",,,,way
 "Niek Engelschmanstraat",,,,way
@@ -1088,7 +1082,6 @@ Nickeriepad,,,,way
 "Nieuwe Beestenmarkt",,,,way
 "Nieuwe Koningstraat",,,,way
 "Nieuwe Mare",,,,way
-"Nieuwe Marnixstraat",,,,way
 "Nieuwe Rijn",,,,way
 "Nieuwe Waardstraat",,,,way
 Nieuwebrugsteeg,,,,way
@@ -1163,8 +1156,6 @@ Papegaaisbolwerk,,,,way
 Papengracht,,,,way
 Papiermolen,,,,way
 Paradijssteeg,,,,way
-Paramaribohof,,,,way
-Paramaribostraat,,,,way
 Parelmoervlinder,,,,way
 Parelstraat,,,,way
 "Park Die Leythe",,,,way
@@ -1201,7 +1192,6 @@ Petuniadal,,,,way
 Philipsburgstraat,,,,way
 "Piet Heinstraat",,,,way
 "Piet Paaltjenspad",,,,way
-"Pieter Bothstraat",,,,way
 "Pieter Gerritz Speckhof",,,,way
 "Pieter Huibertsgang",,,,way
 "Pieter Vreedestraat",,,,way
@@ -1328,7 +1318,6 @@ Rozenpad,,,,way
 Rubiconbrug,,,,way
 "Ruime Consciëntiestraat",,,,way
 Rupsenpad,,,,way
-Sabastraat,,,,way
 Saffierstraat,,,,way
 Saffraantuin,,,,way
 Salomonsteeg,,,,way
@@ -1385,11 +1374,9 @@ Sijthoffstraat,,,,way
 "Simon Vestdijkpad",,,,way
 "Sint Aagtenstraat",,,,way
 "Sint Anna'shof",,,,way
-"Sint Eustatiusstraat",,,,way
 "Sint Jacobsgracht",,,,way
 "Sint Janshof",,,,way
 "Sint Jorissteeg",,,,way
-"Sint Maartenstraat",,,,way
 "Sint Pancrassteeg",,,,way
 "Sint Ursulasteeg",,,,way
 Sionshof,,,,way
@@ -1415,7 +1402,6 @@ Snippenhoek,,,,way
 Snoekforel,,,,way
 "Snouck Hurgronjestraat",,,,way
 Soembastraat,,,,way
-Soestdijkkade,,,,way
 Sonatepad,,,,way
 Sophiahof,,,,way
 Spaarnestraat,,,,way
@@ -1473,9 +1459,6 @@ Strawinskypad,,,,way
 Strobloem,,,,way
 Struikheide,,,,way
 Stuwstraat,,,,way
-Stuyvesanthof,,,,way
-Sumatrastraat,,,,way
-Surinamestraat,,,,way
 Suringarstraat,,,,way
 "Suze Baarthof",,,,way
 "Suze Groenewegplein",,,,way
@@ -1506,7 +1489,6 @@ Tiberiusstraat,,,,way
 "Tiboel Siegenbeekstraat",,,,way
 "Tieleman en Drosweg",,,,way
 Tijgeroogstraat,,,,way
-Timorstraat,,,,way
 Tinbergenweg,,,,way
 "Tine Tammespad",,,,way
 "Tine van Dethstraat",,,,way
@@ -1573,11 +1555,9 @@ Valkensteeg,,,,way
 "Van Hogendorpstraat",,,,way
 "Van Ledenberchstraat",,,,way
 "Van Lennepstraat",,,,way
-"Van Limburg Stirumstraat",,,,way
 "Van Oldenbarneveltstraat",,,,way
 "Van Randwijkstraat",,,,way
 "Van Ravelingenstraat",,,,way
-"Van Riebeeckhof",,,,way
 "Van Rijsselpad",,,,way
 "Van Slingelandtlaan",,,,way
 "Van Speykstraat",,,,way
@@ -1591,7 +1571,6 @@ Valkensteeg,,,,way
 "Van den Brandelerkade",,,,way
 "Van der Blom-Vijlbriefhof",,,,way
 "Van der Blom-Vijlbriefstraat",,,,way
-"Van der Duynstraat",,,,way
 "Van der Helmlaan",,,,way
 "Van der Hoevenstraat",,,,way
 "Van der Lubbehof",,,,way
@@ -1701,7 +1680,6 @@ Wilhelmuspad,,,,way
 "Willem Dreeslaan",,,,way
 "Willem Klooslaan",,,,way
 "Willem Pijperstraat",,,,way
-"Willem de Zwijgerlaan",,,,way
 "Willem van der Madeweg",,,,way
 Willemshof,,,,way
 Willemstraat,,,,way

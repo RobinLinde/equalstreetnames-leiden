@@ -1,17 +1,22 @@
 name,source,gender,wikidata,type
 "Aagje Dekenstraat",wikidata,F,Q255601,way
+"Albertine Agnesstraat",wikidata,F,Q271950,way
+Amaliastraat,wikidata,F,Q62511,way
 "Anna Maria van Schuurmanstraat",wikidata,F,Q255261,way
 "Anna Paulownastraat",wikidata,F,Q160800,way
 "Anna Reynvaanstraat",wikidata,F,Q2126624,way
+"Anna van Burenhof",wikidata,F,Q266926,way
 "Anna van Saksenstraat",wikidata,F,Q76488,way
 "Anne Frankweg",wikidata,F,Q4583,way
 "Annelien Kappeynestraat",wikidata,F,Q2740625,way
 "Annie Romeinsingel",wikidata,F,Q1897634,way
 "Antoinette Kleynstraat",wikidata,F,Q20017529,way
+Beatrixstraat,wikidata,F,Q29574,way
 "Carry van Bruggenweg",wikidata,F,Q447097,way
 "Catharina van Renneskade",wikidata,F,Q2155613,way
 "Catharine van Tussenbroekpad",wikidata,F,Q2062389,way
 "Charley Tooropweg",wikidata,F,Q446922,way
+"Charlotte de Bourbonhof",wikidata,F,Q271581,way
 "Christine Baderpad",wikidata,F,Q28064324,way
 "Clara Visserplaats",wikidata,F,Q20031866,way
 "Clara Wichmannstraat",wikidata,F,Q1095182,way
@@ -27,9 +32,12 @@ name,source,gender,wikidata,type
 "Henriëtte van der Meystraat",wikidata,F,Q1243554,way
 "Ina Boudier-Bakkerplein",wikidata,F,Q2167972,way
 "Ina Boudier-Bakkerstraat",wikidata,F,Q2167972,way
+Irenestraat,wikidata,F,Q263623,way
 "Jeltje de Bosch Kemperpad",wikidata,F,Q2934216,way
 "Johanna Naberstraat",wikidata,F,Q1696989,way
 "Joke Smitstraat",wikidata,F,Q2492882,way
+"Juliana van Stolberghof",wikidata,F,Q202566,way
+Julianakade,wikidata,F,Q154946,way
 "Katharina Boudewijnskade",wikidata,F,Q3194019,way
 "Lau Mazirelstraat",wikidata,F,Q1807722,way
 "Liesbeth Ribbiuspad",wikidata,F,Q20859202,way
@@ -40,8 +48,10 @@ name,source,gender,wikidata,type
 "Madame Curiestraat",wikidata,F,Q7186,way
 "Marga Klompéstraat",wikidata,F,Q276410,way
 "Margo Antinkstraat",wikidata,F,Q1927183,way
+Margrietstraat,wikidata,F,Q268821,way
 "Maria Montessoripad",wikidata,F,Q131117,way
 "Maria Rutgersweg",wikidata,F,Q2064966,way
+Marijkestraat,wikidata,F,Q435324,way
 "Mary Zeldenrustweg",wikidata,F,Q13817405,way
 "Mina Krusemanstraat",wikidata,F,Q2019499,way
 "Petronella Moensweg",wikidata,F,Q2142140,way
@@ -62,6 +72,18 @@ Sophiastraat,wikidata,F,Q168674,way
 "Waldeck Pyrmontstraat",wikidata,F,Q57664,way
 "Wilhelmina Bladergroenweg",wikidata,F,Q2864724,way
 "Willemijn Posthumuspad",wikidata,F,Q2576811,way
+"Abraham Crijnssenstraat",wikidata,M,Q323605,way
+"Alexander Gogelstraat",wikidata,M,Q1994850,way
+Bernhardstraat,wikidata,M,Q57304,way
+"Jan Pieterszoon Coenhof",wikidata,M,Q470856,way
+"Johan Willem Frisostraat",wikidata,M,Q62538,way
 Marnixstraat,wikidata,M,Q701605,way
 "Martin Luther Kingpad",wikidata,M,Q8027,way
+"Nieuwe Marnixstraat",wikidata,M,Q701605,way
+"Pieter Bothstraat",wikidata,M,Q981554,way
+Stuyvesanthof,wikidata,M,Q161536,way
+"Van Limburg Stirumstraat",wikidata,M,Q2203493,way
+"Van Riebeeckhof",wikidata,M,Q294769,way
+"Van der Duynstraat",wikidata,M,Q2048455,way
+"Willem de Zwijgerlaan",wikidata,M,Q78454,way
 Zamenhofstraat,wikidata,M,Q11758,way
